@@ -1,11 +1,9 @@
 ---
 title: "git_01"
 author: "Karla Cota Lopez"
-<<<<<<< HEAD
+<<<<<<< HEAD 
 date: "Sept 12, 2024"
-=======
-date: "Fall semester"
->>>>>>> firstLast
+>>>>>>> firstLast 
 output: html_document
 ---
 
